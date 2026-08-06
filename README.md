@@ -1,15 +1,18 @@
-![CHANGED DRPG logo](./images/Changed%20DRPG%20logo.png)
+Welcome to the **CHANGED DRPG** wiki. Some things you must know before you read further:
 
-# CHANGED DRPG Wiki
+1. **Spoilers are hidden (1):** If a part of a page contains spoilers, those spoilers will be hidden like this:
 
-This is the wiki for CHANGED DRPG, a Discord RPG based on the story and concepts of the Changed (2018) and Changed: Special Edition (2022) video games.
+> [!error]- **Spoilers hidden.** (Reason)
+> Hidden content
 
-## What is a "Discord RPG"?
+2. **Spoilers are hidden (2):** If an entire page is a spoiler, a banner will be placed on top of the page, like this:
 
-Put simply, a Discord RPG is a roleplay game ran by one human game manager, and played by one or several human players.
+> [!error] **Spoilers ahead!** (Reason)
+> This entire page is a spoiler for CHANGED DRPG's story. If you are not comfortable with spoilers, turn back now!
 
----
+3. **GM notes are hidden:** GM notes also contain spoilers. They are hidden like this:
 
-This wiki is run by a revision system. Enter the Branches menu, and choose the revision you'd like to read.
+> [!note]- **Game manager notes hidden.**
+> Hidden content
 
-*Ezample: Rev. 0 is `revision/zero`.*
+4. **CHANGED DRPG is not the same as Changed (2018):** CHANGED DRPG is not the same as Changed (2018) or Changed: Special Edition (2022).
