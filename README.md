@@ -12,4 +12,6 @@ Put simply, a Discord RPG is a roleplay game ran by one human game manager, and 
 
 This wiki is run by a revision system. Enter the Branches menu, and choose the revision you'd like to read.
 
+> **Note:** It is recommended that you enter the branch, download the ZIP archive of it, and open in Obsidian. Some contents render incorrectly in the GitHub Markdown preview!
+
 *Ezample: Rev. 0 is `revision/zero`.*
