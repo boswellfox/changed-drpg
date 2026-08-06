@@ -1,7 +1,7 @@
-> \[!error\] **Spoilers ahead!** (Reason)
+> [!error] **Spoilers ahead!** (Reason)
 > This entire page is a spoiler for CHANGED DRPG's story. If you are not comfortable with spoilers, turn back now!
 
-PURO V2 is an antagonist of CHANGED DRPG, and the only boss fight that [Colin](../Human/Colin.md) can trigger. It is a rebirth of [Puro](Puro.md), if he turns against Colin and manages to die. His mask creates a crystal (see [Latex](../../Species/Latex.md)), which incubates PURO V2 for a while until Colin goes near the crystal.
+PURO V2 is an antagonist of CHANGED DRPG, and the only boss fight that [[Colin]] can trigger. It is a rebirth of [[Puro]], if he turns against Colin and manages to die. His mask creates a crystal (see [[Latex]]), which incubates PURO V2 for a while until Colin goes near the crystal.
 
 ## Battle Statistics
 
@@ -17,11 +17,11 @@ Upon transfurring Colin, it will absorb him, killing him. PURO V2 has no ACTs. W
 
 ## Appearance
 
-PURO V2 is a [Dark Latex](../../Species/Latex/Dark%20Latex.md) creature about five times the size of Puro. He appears more monster-like, and is not bipedal. Its face is adorned with a white mask -- as with most Dark Latex creatures -- with white pupils visible through the eyeholes. His eyes glow and are visible in the dark.
+PURO V2 is a [[Dark Latex]] creature about five times the size of Puro. He appears more monster-like, and is not bipedal. Its face is adorned with a white mask -- as with most Dark Latex creatures -- with white pupils visible through the eyeholes. His eyes glow and are visible in the dark.
 
 ## Behavior
 
 PURO V2 is incapable of love, and is hard-wired to transfur and consume Colin at all costs, a departure of Puro.
 
-> \[!note\] For game managers
-> [The Assimilation Prologue](../../Concepts/The%20Assimilation%20Prologue.md) is not available if Colin is transfurred by PURO V2.
+> [!note] For game managers
+> [[The Assimilation Prologue]] is not available if Colin is transfurred by PURO V2.

@@ -1,4 +1,4 @@
-**The Lab** is a multi-compartment laboratory where [Colin](../Characters/Human/Colin.md) and all of the [Latex](../Species/Latex.md) and Latex beasts inhabit in.
+**The Lab** is a multi-compartment laboratory where [[Colin]] and all of the [[Latex]] and Latex beasts inhabit in.
 
 ## Appearance
 
@@ -6,10 +6,10 @@ Most compartments in the Lab have cold, tiled marble flooring and light gray bri
 
 ## Compartments
 
-> \[!note\] For game managers (not spoilers)
-> You must randomly choose each compartment, excluding Compartment 1, which is the Spawn Room. You can choose random puzzles to get past each compartment. The Lab must have at least one Library for [Puro](../Characters/Latex/Puro.md). All other compartments are optional.
+> [!note] For game managers (not spoilers)
+> You must randomly choose each compartment, excluding Compartment 1, which is the Spawn Room. You can choose random puzzles to get past each compartment. The Lab must have at least one Library for [[Puro]]. All other compartments are optional.
 >
-> Vents must be randomly chosen for [Hypno Cat](../Characters/Latex/Hypno%20Cat.md) and various other vent-dwelling Latex (and story-bound lore).
+> Vents must be randomly chosen for [[Hypno Cat]] and various other vent-dwelling Latex (and story-bound lore).
 
 ### Spawn Room
 
@@ -25,15 +25,15 @@ A large square room lines with bookshelves. All of the books seem years old, and
 
 ### Light Latex Ecosystem
 
-Once a science lab. A length-long compartment completely covered in inactive Light Latex that will not deal damage, but can spawn full-size Light Latex creatures. [Hypno Cat](../Characters/Latex/Hypno%20Cat.md) often comes here to eat the Light Latex as food. The exit and entrance doors are the only things not covered by Light Latex. At the end of the compartment is a door to exit to another compartment.
+Once a science lab. A length-long compartment completely covered in inactive Light Latex that will not deal damage, but can spawn full-size Light Latex creatures. [[Hypno Cat]] often comes here to eat the Light Latex as food. The exit and entrance doors are the only things not covered by Light Latex. At the end of the compartment is a door to exit to another compartment.
 
 ### Dark Latex Ecosystem
 
-Once a science lab. A length-long compartment completely covered in inactive Dark Latex that will not deal damage, but can spawn [Dark Latex](../Species/Latex/Dark%20Latex.md) cubs via crystals that line the walls. [Puro](../Characters/Latex/Puro.md) feels distaste for these compartments. The exit and entrance doors are the only things not covered by Dark Latex. At the end of the compartment is a door to exit to another compartment.
+Once a science lab. A length-long compartment completely covered in inactive Dark Latex that will not deal damage, but can spawn [[Dark Latex]] cubs via crystals that line the walls. [[Puro]] feels distaste for these compartments. The exit and entrance doors are the only things not covered by Dark Latex. At the end of the compartment is a door to exit to another compartment.
 
 ### Aquatic Area
 
-A large compartment that was flooded by water. Its floor has caved in, creating a small lake that inhabits the [Tiger Shark](../Characters/Latex/Tiger%20Shark.md). The compartment is very humid, since the water is very hot (and would make [Colin](../Characters/Human/Colin.md) feel as if he was burning on first touch). At top middle is a door to exit to another compartment.
+A large compartment that was flooded by water. Its floor has caved in, creating a small lake that inhabits the [[Tiger Shark]]. The compartment is very humid, since the water is very hot (and would make [[Colin]] feel as if he was burning on first touch). At top middle is a door to exit to another compartment.
 
 ### Exit Door
 

@@ -1,4 +1,4 @@
-A **Minor Latex Shark** is a small, non-bipedal [Latex](../../Species/Latex.md) shark that act as minions for [Tiger Shark](Tiger%20Shark.md).
+A **Minor Latex Shark** is a small, non-bipedal [[Latex]] shark that act as minions for [[Tiger Shark]].
 
 ## Battle Statistics
 
@@ -14,4 +14,4 @@ A Minor Latex Shark can not be attacked, and are usually thrown at a human playe
 
 ## Appearance
 
-They are similar to the Tiger Shark, but are not bipedal and resemble more of regular sharks. They are somewhat larger than [Colin](../Human/Colin.md)'s head.
+They are similar to the Tiger Shark, but are not bipedal and resemble more of regular sharks. They are somewhat larger than [[Colin]]'s head.

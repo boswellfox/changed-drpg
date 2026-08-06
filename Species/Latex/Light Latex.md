@@ -1,4 +1,4 @@
-After the Dark [Latex](../Latex.md) were deemed a failure by [Thunder Science](../../Factions/Thunder%20Science.md), the scientists carried on with their experiments, in the hopes of making a latex that wouldn't result in the host becoming feral. Once again, they failed, creating the **Light Latex**. They are creatures made of [Latex](../Latex.md).
+After the Dark [[Latex]] were deemed a failure by [[Thunder Science]], the scientists carried on with their experiments, in the hopes of making a latex that wouldn't result in the host becoming feral. Once again, they failed, creating the **Light Latex**. They are creatures made of [[Latex]].
 
 ## Appearance
 

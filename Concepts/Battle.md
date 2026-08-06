@@ -1,4 +1,4 @@
-> \[!note\] This page is incomplete.
+> [!note] This page is incomplete.
 
 A **Battle** (also known as a **BATTLE** or a **FIGHT** in-game) is, well, a battle.
 
@@ -22,7 +22,7 @@ Combat is turn-based, similar to RPGs like Deltarune. First, all human players w
 
 ### ACTing
 
-A character can ACT in any number of ways that the game manager permits. For example, [Hypno Cat](../Characters/Latex/Hypno%20Cat.md)'s only ACT is "Hypnotize", where she voids a human player's turn. A human player only has "Check" (displays the enemy character's stats) and "Talk" (GM-powered) by default, but more can be added by the game manager (and "Talk" can even be changed). When fighting a Dark Latex, all human players have the "Hit Mask" ability, which makes them attempt to hit the creature's mask.
+A character can ACT in any number of ways that the game manager permits. For example, [[Hypno Cat]]'s only ACT is "Hypnotize", where she voids a human player's turn. A human player only has "Check" (displays the enemy character's stats) and "Talk" (GM-powered) by default, but more can be added by the game manager (and "Talk" can even be changed). When fighting a Dark Latex, all human players have the "Hit Mask" ability, which makes them attempt to hit the creature's mask.
 
 ### SPARE-ing
 

@@ -1,8 +1,8 @@
-The **Dark Latex** was created as [Thunder Science](../../Factions/Thunder%20Science.md)'s first attempt to cure the Pale Virus (which failed, because transfurmation into a Dark Latex makes them go feral). The [Light Latex](Light%20Latex.md) was the second attempt. They are creatures made of [Latex](../Latex.md).
+The **Dark Latex** was created as [[Thunder Science]]'s first attempt to cure the Pale Virus (which failed, because transfurmation into a Dark Latex makes them go feral). The [[Light Latex]] was the second attempt. They are creatures made of [[Latex]].
 
 ## Battle
 
-When a Dark Latex is hit on their mask in [Battle](../../Concepts/Battle.md), it will always be a critical hit.
+When a Dark Latex is hit on their mask in [[Battle]], it will always be a critical hit.
 
 ## Appearance
 
@@ -32,11 +32,11 @@ The Dark Latex wolves are, as their name suggests, bipedal black wolves.
 | Defense | 0/100  |
 | Health  | 25/∞   |
 
-The Dark Latex wolves have no ACTs. (But, why would you [Battle](../../Concepts/Battle.md) one?)
+The Dark Latex wolves have no ACTs. (But, why would you [[Battle]] one?)
 
 The Dark Latex cubs are juvenile versions of the Dark Latex wolves. They are non-bipedal, and look more similar to actual wolf cubs.
 
 ## Behavior
 
-> \[!error\]- **Spoilers hidden.** (Story content)
+> [!error]- **Spoilers hidden.** (Story content)
 > When Dark Latex creatures die (only when their mask is cracked), their mask has a chance of creating a crystal that spawns new Dark Latex creatures (often Dark Latex Cubs). PURO V2 is the only difference (he is not a pup, and shatters the crystal when a player comes close to it).
