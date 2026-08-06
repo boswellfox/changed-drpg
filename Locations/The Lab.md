@@ -1,4 +1,4 @@
-**The Lab** is a multi-compartment laboratory where [[Colin]] and all of the [[Latex]] and Latex beasts inhabit in.
+**The Lab** is a multi-compartment laboratory where [[Colin]] and all the [[Latex]] and Latex beasts live in.
 
 ## Appearance
 
@@ -7,7 +7,7 @@ Most compartments in the Lab have cold, tiled marble flooring and light gray bri
 ## Compartments
 
 > [!note] For game managers (not spoilers)
-> You must randomly choose each compartment, excluding Compartment 1, which is the Spawn Room. You can choose random puzzles to get past each compartment. The Lab must have at least one Library for [[Puro]]. All other compartments are optional.
+> The game manager selects a random subset of compartments for the Lab layout. Compartment 1 (Spawn Room) is always excluded. The Library is always included (required for [[Puro]]). All other compartments (Forest, Light Latex Ecosystem, Dark Latex Ecosystem, Aquatic Area, Exit Door) are randomly chosen. You can choose random puzzles to get past each compartment.
 >
 > Vents must be randomly chosen for [[Hypno Cat]] and various other vent-dwelling Latex (and story-bound lore).
 
@@ -21,7 +21,7 @@ A length-long room with most width taken by various plant life (mostly trees). W
 
 ### Library
 
-A large square room lines with bookshelves. All of the books seem years old, and aren't kept by anybody but Puro. There are no Latex threats in this room (unless you count Puro as one). In the top middle of the compartment is a door to exit to another compartment.
+A large square room lined with bookshelves. All of the books seem years old, and aren't kept by anybody but Puro. There are no Latex threats in this room (unless you count Puro as one). In the top middle of the compartment is a door to exit to another compartment.
 
 ### Light Latex Ecosystem
 

@@ -1,4 +1,4 @@
-A **Minor Latex Shark** is a small, non-bipedal [[Latex]] shark that act as minions for [[Tiger Shark]].
+A **Minor Latex Shark** is a small, non-bipedal [[Latex]] shark that acts as minions for [[Tiger Shark]].
 
 ## Battle Statistics
 
@@ -10,7 +10,7 @@ A **Minor Latex Shark** is a small, non-bipedal [[Latex]] shark that act as mini
 
 ### Battling
 
-A Minor Latex Shark can not be attacked, and are usually thrown at a human player. If they miss, the Minor Latex Shark will disintegrate after hitting the floor (or water). They deal damage if they hit a human player.
+A Minor Latex Shark cannot be attacked, and is usually thrown at a human player. If it misses, the Minor Latex Shark will disintegrate after hitting the floor (or water). It deals damage if it hits a human player.
 
 ## Appearance
 

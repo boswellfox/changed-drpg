@@ -14,7 +14,7 @@ Combat is turn-based, similar to RPGs like Deltarune. First, all human players w
 
 #### Defense
 
-**Defense** dulls ATTACKs. It will lessen the power by that percent. _Example: 20 Power vs. 25 Defense = 15 damage._
+**Defense** dulls ATTACKs. It will lessen the power by that percent. Damage is calculated as: damage = Power × (1 - Defense / 100), rounded down to the nearest whole number. _Example: 20 Power vs. 25 Defense = 15 damage._
 
 #### Health
 

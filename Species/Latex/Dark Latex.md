@@ -32,11 +32,11 @@ The Dark Latex wolves are, as their name suggests, bipedal black wolves.
 | Defense | 0/100  |
 | Health  | 25/∞   |
 
-The Dark Latex wolves have no ACTs. (But, why would you [[Battle]] one?)
+The Dark Latex cubs have no ACTs. (But, why would you [[Battle]] one?)
 
 The Dark Latex cubs are juvenile versions of the Dark Latex wolves. They are non-bipedal, and look more similar to actual wolf cubs.
 
 ## Behavior
 
 > [!error]- **Spoilers hidden.** (Story content)
-> When Dark Latex creatures die (only when their mask is cracked), their mask has a chance of creating a crystal that spawns new Dark Latex creatures (often Dark Latex Cubs). PURO V2 is the only difference (he is not a pup, and shatters the crystal when a player comes close to it).
+> When Dark Latex creatures die (only when their mask is cracked), their mask has a chance of creating a crystal that spawns new Dark Latex creatures (often Dark Latex Cubs). PURO V2 is the only difference (he is not a cub, and shatters the crystal when a player comes close to it).
