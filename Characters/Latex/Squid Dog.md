@@ -18,7 +18,7 @@ The Squid Dog is a large four-armed light latex squid-dog creature, having the f
 
 ## Behavior
 
-The Squid Dog is the king of the Aquatic 2 compartment in [[The Lab]].
+The Squid Dog is the king of the Aquatic Area 2 compartment in [[The Lab]].
 
 The Squid Dog, unlike some other bosses, was never a human. It instead originates from experimentation and hybridization of Light Latex creatures with aquatic animals, much like all of the other aquatic beasts.
 
