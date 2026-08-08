@@ -18,4 +18,6 @@ The Tiger Shark is a tall, thin latex creature with a grey body, long shark tail
 
 ## Behavior
 
-The Tiger Shark is the king of the Aquatic compartment in [[The Lab]], and can summon other [[Minor Latex Shark|Minor Latex Sharks]] in battle. Despite his shark appearance, he can move in land, albeit slower.
+The Tiger Shark is the king of the Aquatic Area compartment in [[The Lab]], and can summon other [[Minor Latex Shark|Minor Latex Sharks]] in battle. Despite his shark appearance, he can move in land, albeit slower.
+
+The Tiger Shark could be considered as the [[Squid Dog]]'s "pet".

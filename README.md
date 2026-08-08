@@ -1,3 +1,6 @@
+> [!warning] **May not be suitable for people under 13 years of age.**
+> CHANGED DRPG contains mild body horror, transformation content, and fantasy violence. It may not be suitable for children under 13.
+
 Welcome to the **CHANGED DRPG** wiki. Some things you must know before you read further:
 
 1. **Spoilers are hidden (1):** If a part of a page contains spoilers, those spoilers will be hidden like this:

@@ -6,6 +6,8 @@ A **Battle** (also known as a **BATTLE** or a **FIGHT** in-game) is, well, a bat
 
 Combat is turn-based, similar to RPGs like Deltarune. First, all human players will take their turns, either ATTACKing, DEFENDing, ACTing, or SPARE-ing an enemy. Then, all enemies will take their turns (they can only ATTACK and DEFEND in most cases).
 
+There is no inventory system. An ally or enemy can only hold one weapon, and must use an item as soon as they obtain it (for example, [[Puro]] can give [[Colin]] an Orange that maxes out their Health). When "stunning" is mentioned, it usually means skipping an ally or enemy's turn.
+
 ### Statistics
 
 #### Power
@@ -14,7 +16,7 @@ Combat is turn-based, similar to RPGs like Deltarune. First, all human players w
 
 #### Defense
 
-**Defense** dulls ATTACKs. It will lessen the power by that percent. Damage is calculated as: damage = Power × (1 - Defense / 100), rounded down to the nearest whole number. _Example: 20 Power vs. 25 Defense = 15 damage._
+**Defense** dulls ATTACKs. It will lessen the power by that percent. Damage is calculated as: damage = Power × (1 - Defense / 100), rounded down to the nearest whole number. _Example: 20 Power vs. 25 Defense = 15 damage._ Damage is deterministic and does not have a range (excluding critical hit chances).
 
 #### Health
 
