@@ -36,11 +36,13 @@ Once a science lab. A long compartment completely covered in inactive Dark Latex
 
 ### Aquatic Area
 
-A large compartment that was flooded by water. Its floor has caved in, creating a small lake that inhabits the [[Tiger Shark]]. The compartment is very humid, since the water is very hot (and would make [[Colin]] feel as if he was burning on first touch). At top middle is a door to exit to another compartment.\
+A large compartment that was flooded by water. Its floor has caved in, creating a small lake that inhabits the [[Tiger Shark]]. The compartment is very humid, since the water is very hot (and would make [[Colin]] feel as if he was burning on first touch). At top middle is a door to exit to another compartment.
 
 ### Aquatic Area 2
 
 A wider compartment that was flooded by water. Its floor has caved in, creating a somewhat large lake that inhabits the [[Squid Dog]]. The compartment is very humid, since the water is very hot (and would make Colin feel as if he was burning on first touch). At top middle is a door to exit to another compartment.
+
+Aquatic Area 2 is connected to Aquatic Area 1 underground.
 
 ### Exit Door
 
