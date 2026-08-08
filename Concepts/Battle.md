@@ -16,7 +16,7 @@ There is no inventory system. An ally or enemy can only hold one weapon, and mus
 
 #### Defense
 
-**Defense** dulls ATTACKs. It will lessen the power by that percent. Damage is calculated as: damage = Power × (1 - Defense / 100), rounded down to the nearest whole number. _Example: 20 Power vs. 25 Defense = 15 damage._ Damage is deterministic and does not have a range.
+**Defense** dulls ATTACKs. It will lessen the power by that percent. Damage is calculated as: damage = Power × (1 - Defense / 100), rounded down to the nearest whole number. _Example: 20 Power vs. 25 Defense = 15 damage._ Damage is deterministic and does not have a range (excluding critical hit chances).
 
 #### Health
 
